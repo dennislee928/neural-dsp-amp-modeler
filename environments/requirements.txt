@@ -22,7 +22,6 @@ torch
 
 transformers>=4.50.0
 
-
 tqdm
 wavio
 wheel
