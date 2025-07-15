@@ -19,7 +19,10 @@ sounddevice
 torch
 # `transformers` is not required, but if you have it, it needs to be recent
 # enough so I'm adding it.
-transformers>=4.52.0
+
+transformers>=4.50.0
+
+
 tqdm
 wavio
 wheel
