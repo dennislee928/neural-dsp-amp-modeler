@@ -26,4 +26,6 @@ transformers>=4.50.0
 tqdm
 wavio
 wheel
-urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
+
+pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
+
